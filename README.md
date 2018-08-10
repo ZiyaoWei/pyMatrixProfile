@@ -13,3 +13,5 @@ There should be an API redesign coming - the usability isn't very good now, but 
 If you use this work, please consider citing the following paper, which this repository is based on:
 
 * Chin-Chia Michael Yeh, Yan Zhu, Liudmila Ulanova, Nurjahan Begum, Yifei Ding, Hoang Anh Dau, Diego Furtado Silva, Abdullah Mueen, Eamonn Keogh (2016). Matrix Profile I: All Pairs Similarity Joins for Time Series: A Unifying View that Includes Motifs, Discords and Shapelets. IEEE ICDM 2016.
+
+If you are using R, check out this package by @franzbischoff: https://github.com/franzbischoff/Matrix-Profile
